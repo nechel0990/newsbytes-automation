@@ -1,0 +1,15 @@
+{
+  "name": "newsbytes-functions",
+  "description": "Firebase function to automate news video generation and upload",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "googleapis": "^131.0.0",
+    "node-cron": "^3.0.2",
+    "openai": "^4.0.0"
+  },
+  "engines": {
+    "node": "18"
+  }
+}￼Enter
